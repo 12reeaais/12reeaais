@@ -1,5 +1,5 @@
 **Boas vindas ao meu perfil**
-Meu nome é Igor.
+Meu nome é Igor
 
 Estudo na Alura;
 Estou me desenvolvendo na linguagem JavaScript, Html e CSS;
