@@ -1,8 +1,8 @@
 **Boas vindas ao meu perfil**
-Meu nome é Igor 
+Meu nome é Igor.
 
-Estou estudando na Alura;
-Estou me desenvolvendo na linguagem JavaScript;
+Estudo na Alura;
+Estou me desenvolvendo na linguagem JavaScript, Html e CSS;
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos;
 Você pode entrar em contato comigo 📫;
 
